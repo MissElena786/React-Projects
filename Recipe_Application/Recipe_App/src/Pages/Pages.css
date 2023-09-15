@@ -1,0 +1,29 @@
+.iconImage{
+   box-shadow: 0 0 10px black;
+   /* border: 2px solid black; */
+   border-radius: 1.1rem
+}
+.iconImage>img{
+   border-radius: 1rem;
+}
+.iconImage:hover{
+   border: 0.3rem solid white;
+}
+
+
+
+
+.TabImage{
+   box-shadow: 0 0 10px black;
+   /* border: 2px solid black; */
+   border-radius: 1.1rem;
+   width: 15rem;
+   
+}
+.TabImage>img{
+   border-radius: 1rem;
+}
+.TabeImage:hover{
+   border: 0.3rem solid white;
+   border: 5px solid white;
+}

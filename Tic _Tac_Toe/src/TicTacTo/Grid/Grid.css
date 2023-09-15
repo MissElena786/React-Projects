@@ -1,0 +1,27 @@
+.grid-wrapper {
+   max-width: 500px;
+   margin: 0 auto;
+   text-align: center;
+
+}
+.grid {
+   height: 500px;
+   width: 500px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.turn-highlight {
+   color: black;
+}
+
+.reset {
+   padding: 1rem;
+   color: white;
+   background-color: black;
+   border-radius: 10px;;
+   border: none;
+   width: 100%;
+}

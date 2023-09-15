@@ -1,0 +1,40 @@
+.about-main{
+   box-shadow:  2px 2px  5px black;
+   padding: 3rem;
+   border-radius: 5px;
+}
+.about-main>button{
+ background-color: white;
+}
+.about-main>button:hover{
+   background-color: rgb(222, 196, 25);
+   color: white;
+}
+
+.about-heading{
+   font-family: 'Marti/an Mono', monospace;
+font-family: 'Noticia Text', serif;
+font-family: 'Poppins', sans-serif;
+font-weight: bold;
+/* font-family: 'Righteous', cursive; */
+/* font-family: 'Shantell Sans', cursive; */
+/* font-family: 'Tilt Prism', cursive; */
+/* font-family: 'Ubuntu', sans-serif; */
+
+color: rgb(93, 92, 92);
+margin: 1rem;
+}
+
+/* .card-service{
+ background-image: url("&quot;https://picsum.photos/id/314/1000/300&quot")
+
+} */
+.service-heading-wrapper{
+   display: flex;
+   flex-direction: column;
+   margin-top: 4rem;
+   justify-content: center;
+   align-items: center;
+   width: 70%; 
+   margin:  3rem auto;
+}
